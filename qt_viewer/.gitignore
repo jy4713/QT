@@ -46,3 +46,10 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# ---------- 추가: 민감 정보 / 환경 설정 ----------
+key.properties
+*.jks
+*.keystore
+google-services.json
+.env
